@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/images/background.jpeg</file>
+        <!-- 向右移动的 8 张图片 -->
+        <file>resources/images/player_right_1.png</file>
+        <file>resources/images/player_right_2.png</file>
+        <file>resources/images/player_right_3.png</file>
+        <file>resources/images/player_right_4.png</file>
+        <file>resources/images/player_right_5.png</file>
+        <file>resources/images/player_right_6.png</file>
+        <file>resources/images/player_right_7.png</file>
+        <file>resources/images/player_right_8.png</file>
+        <!-- 向左移动的 8 张图片 -->
+        <file>resources/images/player_left_1.png</file>
+        <file>resources/images/player_left_2.png</file>
+        <file>resources/images/player_left_3.png</file>
+        <file>resources/images/player_left_4.png</file>
+        <file>resources/images/player_left_5.png</file>
+        <file>resources/images/player_left_6.png</file>
+        <file>resources/images/player_left_7.png</file>
+        <file>resources/images/player_left_8.png</file>
+    </qresource>
+</RCC>
