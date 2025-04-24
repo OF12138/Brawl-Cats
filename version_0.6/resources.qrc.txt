@@ -1,0 +1,48 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/images">
+    <file>resources/images/grid.png</file>
+    <file>resources/images/grass.png</file>
+    <file>resources/images/grass_trans.png</file>
+    <file>resources/images/block.png</file>
+    <file>resources/images/pool.png</file>
+    <file>resources/images/bullet.png</file>
+    <file>resources/images/enemy_cry.PNG</file>
+    <file>resources/images/enemy_dead.PNG</file>
+    <!-- 玩家向右移动的图片 -->
+    <file>resources/images/player_right_1.png</file>
+    <file>resources/images/player_right_2.png</file>
+    <file>resources/images/player_right_3.png</file>
+    <file>resources/images/player_right_4.png</file>
+    <file>resources/images/player_right_5.png</file>
+    <file>resources/images/player_right_6.png</file>
+    <file>resources/images/player_right_7.png</file>
+    <file>resources/images/player_right_8.png</file>
+    <!-- 玩家向左移动的图片 -->
+    <file>resources/images/player_left_1.png</file>
+    <file>resources/images/player_left_2.png</file>
+    <file>resources/images/player_left_3.png</file>
+    <file>resources/images/player_left_4.png</file>
+    <file>resources/images/player_left_5.png</file>
+    <file>resources/images/player_left_6.png</file>
+    <file>resources/images/player_left_7.png</file>
+    <file>resources/images/player_left_8.png</file>
+    <!--enemy images-->
+    <file>resources/images/enemy_left_1.png</file>
+    <file>resources/images/enemy_left_2.png</file>
+    <file>resources/images/enemy_left_3.png</file>
+    <file>resources/images/enemy_left_4.png</file>
+    <file>resources/images/enemy_left_5.png</file>
+    <file>resources/images/enemy_left_6.png</file>
+    <file>resources/images/enemy_left_7.png</file>
+    <file>resources/images/enemy_left_8.png</file>
+
+    <file>resources/images/enemy_right_1.png</file>
+    <file>resources/images/enemy_right_2.png</file>
+    <file>resources/images/enemy_right_3.png</file>
+    <file>resources/images/enemy_right_4.png</file>
+    <file>resources/images/enemy_right_5.png</file>
+    <file>resources/images/enemy_right_6.png</file>
+    <file>resources/images/enemy_right_7.png</file>
+    <file>resources/images/enemy_right_8.png</file>
+</qresource>
+</RCC>
